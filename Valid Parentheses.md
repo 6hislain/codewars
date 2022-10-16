@@ -1,12 +1,19 @@
+---
+date created: 2022-10-16 06:17
+date updated: 2022-10-16 06:20
+tags:
+  - algorithms
+---
+
 Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return `true` if the string is valid, and `false` if it's invalid.
 
-__Examples__
+**Examples**
 "()"                   => true
 ")(()))"               => false
 "("                    => false
 "(())((()())())"      => true
 
-__Constraints__
+**Constraints**
 `0 <= input.length <= 100`
 
 ```javascript
