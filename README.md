@@ -22,3 +22,6 @@ Codewars coding challenges solutions and explanations for revision purposes
 - [ ] Persistent Bugger
 - [ ] Find the missing letter
 - [ ] Who likes it
+- [ ] Convert PascalCase string into snake_case
+- [ ] String Comments
+- [ ] Tic Tac Toe Checker
