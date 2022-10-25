@@ -1,3 +1,8 @@
+---
+date created: 2022-10-18 09:16
+date updated: 2022-10-18 09:16
+---
+
 Codewars coding challenges solutions and explanations for revision purposes
 
 ## Completed Challenges
@@ -23,5 +28,7 @@ Codewars coding challenges solutions and explanations for revision purposes
 - [ ] Find the missing letter
 - [ ] Who likes it
 - [ ] Convert PascalCase string into snake_case
-- [ ] String Comments
-- [ ] Tic Tac Toe Checker
+- [x] Strip Comments
+- [x] Tic Tac Toe Checker
+- [x] Roman Numerals Helper
+- [x] Permutations
